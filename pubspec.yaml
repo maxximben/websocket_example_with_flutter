@@ -14,7 +14,7 @@ dependencies:
   stomp_dart_client: ^2.0.0
   web_socket_channel: ^3.0.1
 #  stomp_dart_client: ^0.4.4
-  uuid: ^3.0.7
+  uuid: ^4.5.0
   intl: ^0.17.0
   http: ^1.2.0
 
